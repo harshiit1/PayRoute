@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PayRoute.API/PayRoute.API.csproj" />
+  <Project Path="PayRoute.Application/PayRoute.Application.csproj" />
+  <Project Path="PayRoute.Bandit/PayRoute.Bandit.csproj" />
+  <Project Path="PayRoute.Domain/PayRoute.Domain.csproj" />
+</Solution>

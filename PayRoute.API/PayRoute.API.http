@@ -1,0 +1,6 @@
+@PayRoute.API_HostAddress = http://localhost:5072
+
+GET {{PayRoute.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
